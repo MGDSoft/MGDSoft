@@ -1,4 +1,6 @@
-I have been working as a developer since 2008, I mainly work with the PHP language for backend development, but in the majority of cases I work as a Fullstack developer. I am very passionate about coding and I am always searching for new technologies to improve my coding speed, the quality of it and also for fun.
+### Coding is in the air ❤️🎶.
+
+I have been working as a developer since 2008, in the majority of cases I work as a Fullstack developer.
 
 <span>
   <a style="all: unset;" href="https://github.com/anuraghazra/github-readme-stats">
