@@ -1,4 +1,4 @@
-### Coding is in the air ❤️🎶.
+### Code is in the air ❤️🎶.
 
 I have been working as a developer since 2008, in the majority of cases I work as a Fullstack developer.
 
